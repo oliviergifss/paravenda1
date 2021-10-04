@@ -16,7 +16,7 @@ body{
     --marron-1: #d104af;
     --marron-2: #d104af;
     --marron-3: #d104af;
-    --cinza: #444;
+    --cinza: #d104af;
     --white: #fdfdfd;
     --gradient: repeating-linear-gradient(45deg, #fff, #fff 1px, transparent 1px, transparent 5px),
         repeating-linear-gradient(-45deg, #fff, #fff 1px, transparent 1px, transparent 5px), #dfdfdf;
