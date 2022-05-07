@@ -13,9 +13,9 @@ body{
     --font-1: 'Indie Flower', cursive;
     --font-2: 'Archivo Narrow', sans-serif;
     --font-3: 'Frijole', cursive;
-    --marron-1: #322b1f;
-    --marron-2: #6a543f;
-    --marron-3: #94846f;
+    --marron-1: #8D09C1;
+    --marron-2: #8D09C1;
+    --marron-3: #8D09C1;
     --cinza: #444;
     --white: #fdfdfd;
     --gradient: repeating-linear-gradient(45deg, #fff, #fff 1px, transparent 1px, transparent 5px),
